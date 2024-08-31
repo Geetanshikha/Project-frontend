@@ -1,0 +1,50 @@
+body{
+    padding-top: 50px;
+    padding-bottom: 40px;
+    background-color: lightgoldenrodyellow;
+    
+}
+/*class always start with .*/
+.nav-justified{
+    
+    background-color: #eee;
+    border-radius: 5px;
+    border: 1px solid black;
+    
+}
+
+
+.nav-justified > li > a{
+    padding: 15px 0;
+    color: #777;
+    text-align: center;
+}
+
+.jumbotron{
+    
+    text-align: center;
+    background-color: transparent;
+}
+
+.jumbotron .btn
+{
+    padding: 15px 25px;
+    font-size: 22px;
+}
+
+.centro{
+    text-align: center;
+}
+
+.divider{
+    margin: 40px 0;
+}
+
+.pink{
+    background-color: lightpink;
+}
+
+footer{
+    
+    margin: 0 110px;
+}

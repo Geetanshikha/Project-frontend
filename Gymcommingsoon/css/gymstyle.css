@@ -1,0 +1,52 @@
+body{
+    
+    
+    background: url("../images/bgGym1.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+    font-family: "EB Garamond", serif;
+    font-size: auto;
+    font-weight: <weight>;
+    font-style: italic;
+    
+}
+
+div{
+    
+    background-color: lightblue;
+    width: 50%;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 25px;
+    opacity: 0.8;
+}
+
+button{
+    
+    background: orange;
+    padding: 20px;
+    color: white;
+    font-size: 2em;
+    border-radius: 10px;
+}
+
+h1{
+    
+    font-size: 3em;
+    
+}
+
+p{
+    font-size: 1.8em;
+}
+
+i{
+    
+    font-size: 1em;
+}
+
+
+
+
+
+
